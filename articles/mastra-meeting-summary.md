@@ -3,7 +3,7 @@ title: "AIエージェントで議事録地獄から解放された話——Mast
 emoji: "📝"
 type: "tech"
 topics: ["mastra", "nextjs", "typescript", "bedrock", "aiagent"]
-published: false
+published: true
 ---
 
 ## はじめに
