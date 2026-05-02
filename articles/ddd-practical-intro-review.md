@@ -3,7 +3,7 @@ title: "「作りながら学ぶ！DDD実践入門」を読んで実装しなが
 emoji: "🏗️"
 type: "tech"
 topics: ["ddd", "typescript", "オニオンアーキテクチャ", "イベント駆動", "設計"]
-published: false
+published: true
 ---
 
 :::message
