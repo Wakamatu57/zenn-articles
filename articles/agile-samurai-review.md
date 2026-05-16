@@ -3,7 +3,7 @@ title: "アジャイルって結局なに？ 現場の課題と照らし合わ�
 emoji: "⚔️"
 type: "idea"
 topics: ["agile", "scrum", "チーム開発", "読書", "プロジェクト管理"]
-published: false
+published: true
 ---
 
 :::message
