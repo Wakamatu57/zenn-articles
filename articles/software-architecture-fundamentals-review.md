@@ -3,7 +3,7 @@ title: "「ソフトウェアアーキテクチャの基礎」を読んで設計
 emoji: "🏛️"
 type: "tech"
 topics: ["アーキテクチャ", "設計", "マイクロサービス", "システム設計", "ソフトウェア設計"]
-published: false
+published: true
 ---
 
 :::message
