@@ -3,7 +3,7 @@ title: "AWS認定デベロッパーアソシエイト（DVA-C02）に合格し�
 emoji: "☁️"
 type: "idea"
 topics: ["aws", "aws認定", "dva", "資格", "勉強法"]
-published: false
+published: true
 ---
 
 ## はじめに
